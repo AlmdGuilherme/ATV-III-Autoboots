@@ -1,7 +1,5 @@
 # AutoManager
 
-Sistema de gerenciamento para oficinas e revendedoras automotivas desenvolvido como atividade acadêmica. A API RESTful permite o controle completo de usuários, veículos, vendas, serviços e mercadorias, implementando segurança robusta com JWT e controle de acesso hierárquico (RBAC).
-
 ## 🚀 Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias e versões:
