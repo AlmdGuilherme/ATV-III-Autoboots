@@ -8,8 +8,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e versões:
 
 * **Java JDK 17** (LTS)
 * **Spring Boot 2.6.7**
-* **Spring Security** (Autenticação e Autorização)
-* **JWT (JSON Web Token)** (Auth0 java-jwt)
 * **Spring Data JPA**
 * **MySQL 8.0+**
 * **Maven** (Gerenciamento de dependências)
